@@ -45,6 +45,7 @@
     <div class="select">
       <%= form.select :category_id, Category.all.collect {|u| [u.title, u.id]} %>
     </div>
+    <%= link_to "New Category", new_category_path, class: "is-link is-pulled-right" %>
   </div>
 
   <div class="actions">
