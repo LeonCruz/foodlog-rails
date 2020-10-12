@@ -18,7 +18,6 @@ class CategoriesTest < ApplicationSystemTestCase
     click_on "Create Category"
 
     assert_text "Category was successfully created"
-    click_on "Back"
   end
 
   test "updating a Category" do
