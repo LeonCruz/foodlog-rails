@@ -17,13 +17,13 @@
     <%= render "shared/header" %>
     <% if notice.present? %>
       <div class="notification is-link is-light">
-          <% notice %>
+          <%= notice %>
       </div>
     <% end %>
 
     <% if alert.present? %>
       <div class="notification is-danger is-light">
-          <% alert %>
+          <%= alert %>
       </div>
     <% end %>
 
