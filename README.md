@@ -1,24 +1,16 @@
-# README
+# FoodLog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Index
+![Index](imgs/index.png)
 
-Things you may want to cover:
 
-* Ruby version
+### New
+![New](imgs/new.png)
 
-* System dependencies
 
-* Configuration
+### Edit
+![Edit](imgs/edit.png)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## All
+![New](imgs/all.png)
